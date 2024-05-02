@@ -20,6 +20,7 @@ body {
 .left {
   width: 30%;
   background-color: rgb(29, 31, 29);
+  /* background-color: cadetblue; */
   border-right: 2px solid rgb(88, 88, 88);
 }
 
@@ -34,7 +35,8 @@ body {
   align-items: center;
   gap: 16px;
   padding: 6px 15px;
-  background-color: gray;
+  /* background-color: gray; */
+  background-color: rgb(62, 76, 74);
   cursor: pointer;
 }
 
@@ -42,6 +44,7 @@ body {
   border-radius: 50%;
   height: 30px;
   width: 30px;
+  
 }
 
 .left .bottom .chats {
